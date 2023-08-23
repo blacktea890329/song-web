@@ -1,0 +1,29 @@
+html, body {
+    height: 1000%;
+    margin: 0;
+  }
+
+body{
+    display: flex;
+    flex-direction: column;
+
+}
+
+footer{
+    display: block;
+    background-color: rgba(180, 18, 18, 0.555);
+    align-items:center;
+}
+
+footer>p{
+    text-align: center;
+}
+
+table{
+    font-size:30px;
+    border: 0;
+}
+
+.container{
+    display:flex;
+}
