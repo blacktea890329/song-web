@@ -27,3 +27,9 @@ table{
 .container{
     display:flex;
 }
+
+header{
+    background-color: chocolate;
+    margin: 0;
+
+}
